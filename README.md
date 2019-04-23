@@ -1,2 +1,2 @@
-# girlsgetgeeky-django-2019
-Building a django application with basic to advanced skills in a simple and intuitive way.
+# Introduction
+Girls get geeky is a tech workshop for ladies in the tech industry, or who aspire to join the tech industry, made possible by a group of ladies already in the industry. Join us in working on a django application with basic to advanced skills in a simple and intuitive way. Plan to attend because not only will we learn and eat, we will also have lots of fun, we promise you this, and prizes will be won!
